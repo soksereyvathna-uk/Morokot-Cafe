@@ -132,7 +132,7 @@ export function Contact() {
             </div>
           </div>
 
-          {/* Form */}
+          {/* Form
           {sent ? (
             <div style={{ backgroundColor:"white", borderRadius:12, padding:"2.5rem", textAlign:"center", boxShadow:"0 2px 16px rgba(74,53,32,0.08)" }}>
               <div style={{ fontSize:"3rem", marginBottom:"1rem" }}>🌿</div>
@@ -159,7 +159,7 @@ export function Contact() {
                 </button>
               </div>
             </div>
-          )}
+          )} */}
         </div>
       </div>
 
